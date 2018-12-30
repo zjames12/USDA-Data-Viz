@@ -1,0 +1,15 @@
+html, body {
+
+}
+h3 {
+    font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.80;
+    -khtml-opacity: 0.8;
+    opacity: 0.8;
+}
+graph:hover {
+    fill : red
+}
